@@ -9,4 +9,4 @@ The design to be realised was described by the following two images:
 https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png
 https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/colors_and_stuff.png
 
-These are also inside the img folder if the links above are not working. I have no trademark over these, they are provided by theodinproject.
+These are also inside the img folder in case that the links above are not working. I have no trademark over these, they are provided by theodinproject.
