@@ -2,7 +2,6 @@ body {
     display: flex;
     flex-direction: column;
     margin: 0;
-    height: 100vh;
 }
 
 .top {
@@ -28,12 +27,12 @@ body >* {
 
 .top-content {
     align-items: center;
-    flex: 1;
+    height: 400px;
 }
 
 .top-right {
     background-color: gray;
-    padding: 125px 200px;
+    padding: 100px 200px;
     margin-left: 30px;
 }
 
@@ -64,10 +63,6 @@ a {
     flex: 1;
 }
 
-.bottom-mid {
-    flex: 1;
-    background-color: lightgrey;
-}
 
 .bottom {
     flex: 1;
@@ -132,4 +127,26 @@ a {
     margin: 20px;
     margin-bottom: 0px;
     color: #1f2937;
+}
+
+.bottom-mid {
+    height: 275px;
+    background-color: lightgrey;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.bottom-mid-quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    margin: auto 80px;
+}
+
+.bottom-mid-quote-person {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: end;
+    margin-right: 130px;
 }
